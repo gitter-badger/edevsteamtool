@@ -1,0 +1,26 @@
+
+
+[2016-12-03 03:18:22] Loaded 0 apps from install folder "D:\ProgrammingFiles\edevsteam\etc\steamcmd\steamapps\appmanifest_*.acf".
+[2016-12-03 03:20:02] Loaded 0 apps from install folder "d:\programmingfiles\edevsteam\etc\steamcmd258550server\steamapps\appmanifest_*.acf".
+
+
+[2016-12-03 03:20:44] Loaded 0 apps from install folder "D:\ProgrammingFiles\edevsteam\etc\steamcmd\steamapps\appmanifest_*.acf".
+[2016-12-03 03:20:51] Loaded 0 apps from install folder "d:\programmingfiles\edevsteam\etc\steamcmd258550server\steamapps\appmanifest_*.acf".
+[2016-12-03 03:20:52] Failed installing AppID 258550 (No subscription)
+
+
+[2016-12-05 00:09:10] Loaded 0 apps from install folder "D:\ProgrammingFiles\edevsteam\etc\steamcmd\steamapps\appmanifest_*.acf".
+[2016-12-05 00:09:14] Loaded 1 apps from install folder "d:\programmingfiles\edevsteam\etc\steamcmd258550\steamapps\appmanifest_*.acf".
+[2016-12-05 00:09:16] Start validating appID 258550
+[2016-12-05 00:09:16] Scheduler update appID 258550: Priority First, legacy=no, restore="", timeSinceLastPlayed=1480896556, appDisableSecondsRemaining=0
+[2016-12-05 00:09:16] AppID 258550 state changed : Fully Installed,Update Running,
+[2016-12-05 00:09:16] AppID 258550 update changed : Running,
+[2016-12-05 00:09:16] AppID 258550 update changed : Running,Reconfiguring,
+[2016-12-05 00:09:16] AppID 258550 update changed : Running,
+[2016-12-05 00:09:16] AppID 258550 update changed : Running,Validating,
+[2016-12-05 00:09:16] Validating files (all active,full) ...
+[2016-12-05 00:10:01] File validation finished: 390 files (4082611200 bytes) total, 0 files (0 bytes) mismatched (45388 msec).
+[2016-12-05 00:10:01] AppID 258550 update changed : Running,
+[2016-12-05 00:10:01] AppID 258550 update changed : None
+[2016-12-05 00:10:01] AppID 258550 state changed : Fully Installed,
+[2016-12-05 00:10:01] AppID 258550 scheduler finished : removed from schedule

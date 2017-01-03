@@ -1,0 +1,568 @@
+"UserLocalConfigStore"
+{
+	"Software"
+	{
+		"Valve"
+		{
+			"Steam"
+			{
+				"SteamDefaultDialog"		"#app_friends"
+				"DesktopShortcutCheck"		"0"
+				"StartMenuShortcutCheck"		"0"
+				"SSAVersion"		"3"
+				"Apps"
+				{
+					"240"
+					{
+						"LastPlayed"		"1359766509"
+						"CloudEnabled"		"1"
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"320_SourceForts v1.9.4.1"
+					{
+						"LastPlayed"		"1287224250"
+						"tags"		""
+					}
+					"320"
+					{
+						"LastPlayed"		"1337019442"
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"340"
+					{
+						"LastPlayed"		"1295108974"
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"30"
+					{
+						"LastPlayed"		"1295107671"
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"4000"
+					{
+						"LastPlayed"		"1370299769"
+						"CloudEnabled"		"1"
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"10"
+					{
+						"category"		""
+						"LastPlayed"		"1363912165"
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"11020"
+					{
+						"category"		""
+						"tags"		""
+						"LastPlayed"		"1355537182"
+					}
+					"70"
+					{
+						"category"		""
+						"tags"		""
+					}
+					"928"
+					{
+						"LastPlayed"		"1259278842"
+					}
+					"205"
+					{
+						"category"		""
+						"tags"		""
+						"LastPlayed"		"1264807219"
+					}
+					"10190"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+						"LastPlayed"		"1366163817"
+					}
+					"300"
+					{
+						"CloudEnabled"		"1"
+						"LastPlayed"		"1295108452"
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"5"
+					{
+						"LastPlayed"		"1274389651"
+					}
+					"80"
+					{
+						"LastPlayed"		"1295105491"
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"100"
+					{
+						"LastPlayed"		"1295105740"
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"40"
+					{
+						"LastPlayed"		"1295108546"
+					}
+					"211"
+					{
+						"LastPlayed"		"1288514758"
+						"tags"		""
+					}
+					"61810"
+					{
+						"LastPlayed"		"1291153575"
+					}
+					"400"
+					{
+						"CloudEnabled"		"1"
+						"LastPlayed"		"1295116335"
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"60"
+					{
+						"LastPlayed"		"1295109115"
+					}
+					"260"
+					{
+						"LastPlayed"		"1318922532"
+						"CloudEnabled"		"1"
+					}
+					"440"
+					{
+						"LastPlayed"		"1319082420"
+						"CloudEnabled"		"1"
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"17580"
+					{
+						"LastPlayed"		"1319402524"
+					}
+					"17570"
+					{
+						"LastPlayed"		"1319403163"
+					}
+					"17530"
+					{
+						"LastPlayed"		"1319404196"
+					}
+					"17500"
+					{
+						"LastPlayed"		"1319404670"
+					}
+					"13140"
+					{
+						"LastPlayed"		"1330571787"
+						"CloudEnabled"		"1"
+					}
+					"550"
+					{
+						"preloadsell"		"1"
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"730"
+					{
+						"LastPlayed"		"1370368283"
+						"CloudEnabled"		"1"
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"105430"
+					{
+						"LastPlayed"		"1355103182"
+					}
+					"218230"
+					{
+						"LastPlayed"		"1353900835"
+					}
+					"745"
+					{
+						"LastPlayed"		"1354266744"
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"570"
+					{
+						"LastPlayed"		"1355528933"
+						"CloudEnabled"		"1"
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"113200"
+					{
+						"LastPlayed"		"1369166480"
+						"CloudEnabled"		"1"
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"102840"
+					{
+						"LastPlayed"		"1357021082"
+						"CloudEnabled"		"1"
+					}
+					"72000"
+					{
+						"LastPlayed"		"1370315263"
+					}
+					"207080"
+					{
+						"LastPlayed"		"1359069021"
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"42690"
+					{
+						"LastPlayed"		"1368595987"
+					}
+					"204220"
+					{
+						"LastPlayed"		"1370315250"
+					}
+					"218060"
+					{
+						"CloudEnabled"		"1"
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"222900"
+					{
+						"CloudEnabled"		"1"
+					}
+					"1840"
+					{
+						"CloudEnabled"		"1"
+					}
+					"92800"
+					{
+						"CloudEnabled"		"1"
+					}
+					"55230"
+					{
+						"CloudEnabled"		"1"
+					}
+					"203290"
+					{
+						"CloudEnabled"		"1"
+					}
+					"107200"
+					{
+						"CloudEnabled"		"1"
+					}
+					"225260"
+					{
+					}
+					"346900"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+						"CloudEnabled"		"1"
+					}
+					"363970"
+					{
+					}
+					"238960"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"215_SourceForts v1.9.4.1"
+					{
+					}
+					"239220"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"105600"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"252490"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"391750"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"108800"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"48000"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"12120"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"218620"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"227940"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"389570"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"386360"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"291550"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"444250"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"236110"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"12210"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"221640"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"6830"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"212680"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"285310"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"231140"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"221910"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"223530"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"17410"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"47830"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"47790"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"265930"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"2990"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+					"224760"
+					{
+						"tags"
+						{
+							"0"		"favorite"
+						}
+					}
+				}
+				"AutoLaunchGameListCheck"		"1"
+				"PrivacyPolicyVersion"		"2"
+			}
+		}
+	}
+	"TradeInfoHint"		"1"
+	"Web"
+	{
+		"WebFav0_URL"		"https://www.google.com/"
+		"WebFav0_Name"		"Google"
+		"WebFav1_URL"		"http://www.youtube.com/"
+		"WebFav1_Name"		"YouTube"
+		"WebFav2_URL"		"http://www.twitter.com/"
+		"WebFav2_Name"		"Twitter"
+		"WebFav3_URL"		"http://www.facebook.com/"
+		"WebFav3_Name"		"Facebook"
+		"WebFav4_URL"		"http://www.reddit.com/"
+		"WebFav4_Name"		"Reddit"
+		"WebRecent0_URL"		"http://steamcommunity.com/id/own3dz/"
+		"WebRecent0_Name"		"Steam Community :: dz."
+		"WebFrequent0_URL"		"http://steamcommunity.com/id/own3dz/"
+		"WebFrequent0_Name"		"Steam Community :: dz."
+		"WebFrequent0_Access"		"4"
+		"WebRecent1_URL"		"http://steamcommunity.com/id/own3dz/commentnotifications/"
+		"WebRecent1_Name"		"Steam Community :: Comment Notifications :: 3dz"
+		"WebFrequent1_URL"		"http://www.reddit.com/"
+		"WebFrequent1_Name"		"reddit: the front page of the internet"
+		"WebFrequent1_Access"		"2"
+		"WebRecent2_URL"		"http://steamcommunity.com/app/208730/"
+		"WebRecent2_Name"		"Steam Community :: Game of Thrones"
+		"WebFrequent2_URL"		"http://steamcommunity.com/app/231140/"
+		"WebFrequent2_Name"		"Steam Community :: Cities XL Platinum"
+		"WebFrequent2_Access"		"1"
+		"WebRecent3_URL"		"http://steamcommunity.com/app/61310/"
+		"WebRecent3_Name"		"Steam Community :: Fractal: Make Blooms Not War"
+		"WebFrequent3_URL"		"https://www.facebook.com/"
+		"WebFrequent3_Name"		"Welcome to Facebook - Log In, Sign Up or Learn More"
+		"WebFrequent3_Access"		"1"
+		"WebRecent4_URL"		"http://steamcommunity.com/app/219780/"
+		"WebRecent4_Name"		"Steam Community :: Divinity II: Developer's Cut"
+		"WebFrequent4_URL"		"http://steamcommunity.com/profiles/76561198012203048/"
+		"WebFrequent4_Name"		"Steam Community :: treish!"
+		"WebFrequent4_Access"		"1"
+		"WebRecent5_URL"		"http://steamcommunity.com/id/own3dz/inventory/"
+		"WebRecent5_Name"		"Steam Community :: 3dz :: Item Inventory"
+		"WebFrequent5_URL"		"http://steamcommunity.com/id/own3dz/stats/BindingOfIsaac?tab=achievements"
+		"WebFrequent5_Name"		"Steam Community :: The Binding of Isaac :: dz."
+		"WebFrequent5_Access"		"1"
+	}
+}
