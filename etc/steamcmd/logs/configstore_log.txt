@@ -30,3 +30,12 @@
 [2016-12-05 00:09:14] Failed to read store 'userlocal' from 'D:\ProgrammingFiles\edevsteam\etc\steamcmd\userdata\anonymous\config\localconfig.vdf.tmp'
 [2016-12-05 00:09:14] Flushed store 'install' to 'D:\ProgrammingFiles\edevsteam\etc\steamcmd\config\config.vdf'
 [2016-12-05 00:09:16] Roaming config - failed to load write-aside store from 'D:\ProgrammingFiles\edevsteam\etc\steamcmd\userdata\anonymous\config\sharedconfig.vdf'
+
+
+[2017-03-01 01:22:32] Loaded store 'install' from 'C:\Users\CORNUCOPIAZUL .LDA\Desktop\alex\ProgrammingFiles\edevsteamtool\etc\steamcmd\config\config.vdf' successfully
+[2017-03-01 01:22:32] Loaded store 'install' from 'C:\Users\CORNUCOPIAZUL .LDA\Desktop\alex\ProgrammingFiles\edevsteamtool\etc\steamcmd\config\config.vdf' successfully
+[2017-03-01 01:22:35] Loaded store 'install' from 'C:\Users\CORNUCOPIAZUL .LDA\Desktop\alex\ProgrammingFiles\edevsteamtool\etc\steamcmd\config\config.vdf' successfully
+[2017-03-01 01:22:36] Flushed store 'install' to 'C:\Users\CORNUCOPIAZUL .LDA\Desktop\alex\ProgrammingFiles\edevsteamtool\etc\steamcmd\config\config.vdf'
+[2017-03-01 01:22:48] Failed to read store 'userlocal' from 'C:\Users\CORNUCOPIAZUL .LDA\Desktop\alex\ProgrammingFiles\edevsteamtool\etc\steamcmd\userdata\anonymous\config\localconfig.vdf.tmp'
+[2017-03-01 01:22:49] Flushed store 'install' to 'C:\Users\CORNUCOPIAZUL .LDA\Desktop\alex\ProgrammingFiles\edevsteamtool\etc\steamcmd\config\config.vdf'
+[2017-03-01 01:22:52] Roaming config - failed to load write-aside store from 'C:\Users\CORNUCOPIAZUL .LDA\Desktop\alex\ProgrammingFiles\edevsteamtool\etc\steamcmd\userdata\anonymous\config\sharedconfig.vdf'

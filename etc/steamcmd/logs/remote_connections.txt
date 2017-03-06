@@ -7,3 +7,7 @@
 
 
 [2016-12-05 00:09:11] Couldn't bind to broadcast port 27036
+
+
+[2017-03-01 01:22:35] Generated client id: 6501730135008641808
+[2017-03-01 01:22:35] Listening for broadcast on: 27036

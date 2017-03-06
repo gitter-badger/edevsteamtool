@@ -44,3 +44,13 @@
 [2016-12-05 00:09:13] [1,2] Connect() starting connection (eNetQOSLevelHigh, 162.254.197.42:27021, UDP)
 [2016-12-05 00:09:13] [1,2] ConnectionCompleted() (162.254.196.42:27020, UDP)
 [2016-12-05 00:09:14] [1,2] RecvMsgClientLogOnResponse() : [a:1:2279694375] 'OK'
+
+
+[2017-03-01 01:22:32] Log session started
+[2017-03-01 01:22:32] [0,0] SetSteamID( [U:1:0] )
+[2017-03-01 01:22:32] CCMInterface::OnNetworkDeviceStateChange -- Saw device up, connecting to Steam
+[2017-03-01 01:22:35] [0,0] SetSteamID( [U:1:0] )
+[2017-03-01 01:22:35] [0,0] SetSteamID( [a:1:0] )
+[2017-03-01 01:22:47] [1,2] Connect() starting connection (eNetQOSLevelHigh, 162.254.197.40:27020, UDP)
+[2017-03-01 01:22:48] [1,2] ConnectionCompleted() (162.254.197.41:27017, UDP)
+[2017-03-01 01:22:48] [1,2] RecvMsgClientLogOnResponse() : [a:1:2570029151] 'OK'

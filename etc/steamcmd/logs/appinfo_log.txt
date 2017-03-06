@@ -35,3 +35,19 @@
 [2016-12-05 00:09:17] UpdatesJob: requested 48 access tokens, 0 received, 48 denied
 [2016-12-05 00:09:17] UpdatesJob: finished OK, nAppsUpdated 0 (0 KB), nPackagesUpdated 0 (0 KB)
 [2016-12-05 00:09:31] Starting async write D:\ProgrammingFiles\edevsteam\etc\steamcmd/appcache/appinfo.vdf (1095270 bytes)
+
+
+[2017-03-01 01:22:48] RequestAppInfoUpdate: nNumAppIDs 1
+[2017-03-01 01:22:48] RequestAppInfoUpdate: nNumAppIDs 1
+[2017-03-01 01:22:49] ProductInfoChanges: change number 0->2748228, apps: 0/0, packages: 0/0
+[2017-03-01 01:22:49] UpdatesJob: requesting 578 apps, 177 packages (meta data, 1024 prev attempts)
+[2017-03-01 01:22:50] UpdatesJob: requested 38 access tokens, 0 received, 38 denied
+[2017-03-01 01:22:50] UpdatesJob: downloaded 15 apps via HTTP, 249 KB (64 KB compressed)
+[2017-03-01 01:22:50] UpdatesJob: requesting 182 apps, 177 packages (full data, 1024 prev attempts)
+[2017-03-01 01:22:52] UpdatesJob: finished OK, nAppsUpdated 197 (765 KB), nPackagesUpdated 177 (48 KB)
+[2017-03-01 01:23:00] UpdatesJob: requesting 114 apps, 0 packages (meta data, 1024 prev attempts)
+[2017-03-01 01:23:00] UpdatesJob: requested 83 access tokens, 0 received, 83 denied
+[2017-03-01 01:23:00] UpdatesJob: downloaded 1 apps via HTTP, 8 KB (2 KB compressed)
+[2017-03-01 01:23:00] UpdatesJob: requesting 75 apps, 0 packages (full data, 1024 prev attempts)
+[2017-03-01 01:23:01] UpdatesJob: finished OK, nAppsUpdated 76 (88 KB), nPackagesUpdated 0 (0 KB)
+[2017-03-01 01:23:16] Starting async write C:\Users\CORNUCOPIAZUL .LDA\Desktop\alex\ProgrammingFiles\edevsteamtool\etc\steamcmd/appcache/appinfo.vdf (1182033 bytes)
