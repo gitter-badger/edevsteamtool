@@ -18,14 +18,16 @@ A cross platform script tool to manage steam game servers with SteamCMD.
 ## Compatibility
 Systems:
 * Windows
-  * Windows 10 :ballot_box_with_check:
+  * Windows 10 :ballot_box_with_check: :white_check_mark: :heavy_check_mark:
 * ~~Unix~~
-  * ~~Raspbian~~
+  * ~~Raspbian~~ :x:
   * ~~Debian~~
-    * ~~Debian 8 Jessie~~
-  * ~~Ubuntu~~
+    * ~~Debian 8 Jessie~~ :x:
+  * ~~Ubuntu~~ :x:
   
 ## Contribute
 [TODOs](TODO)
+
+***
 
 This document was written with [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) and [Emoji](http://www.emoji-cheat-sheet.com/) :books:
