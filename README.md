@@ -1,15 +1,12 @@
 # EDev Steam Tool
-
 A cross platform script tool to manage steam game servers with SteamCMD.
 
 ## Technologies
 * Script Languages: cmd, bash, powershell, vbscript
 
 ## Features
-* ~~Multiple instances of same game server.~~
 * Game Servers:
   * Rust
-  * ~~Rust Oxide Modded~~
 
 ## Inspirations
 * SteamCMD-GUI (https://github.com/DioJoestar/SteamCMD-GUI)
@@ -18,15 +15,10 @@ A cross platform script tool to manage steam game servers with SteamCMD.
 ## Compatibility
 Systems:
 * Windows
-  * Windows 10 :ballot_box_with_check: :white_check_mark: :heavy_check_mark:
-* ~~Unix~~
-  * ~~Raspbian~~ :x:
-  * ~~Debian~~
-    * ~~Debian 8 Jessie~~ :x:
-  * ~~Ubuntu~~ :x:
+  * Windows 10
   
 ## Contribute
-[TODOs](TODO)
+[TODOs](TODO.md)
 
 ***
 
