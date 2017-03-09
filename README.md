@@ -1,25 +1,38 @@
 # EDev Steam Tool
+
 A cross platform script tool to manage steam game servers with SteamCMD.
+At the moment this project as a kind of fork of "[SteamCMD Guardian](https://developer.valvesoftware.com/wiki/SteamCMD)"
 
 ## Technologies
+
 * Script Languages: cmd, bash, powershell, vbscript
 
 ## Features
-* Game Servers:
+
+* Deploy Game Servers:
   * Rust
 
-## Inspirations
-* SteamCMD-GUI (https://github.com/DioJoestar/SteamCMD-GUI)
-* SteamCMD Guardian (https://developer.valvesoftware.com/wiki/SteamCMD)
-
 ## Compatibility
+
 Systems:
-* Windows
-  * Windows 10
+* Windows 10 :white_check_mark:
+
+[more...](TODO.md#compatibility)
   
-## Contribute
-[TODOs](TODO.md)
+## Usage
+
+Windows Systems:
+
+```bat
+edevsteamtool_win.bat
+```
+  
+## Links
+* [Documentation](https://github.com/EnthDev/edevshelltool/wiki)
+* [Contribute](TODO.md)
+* [Support](THANKS.md)
+* [Contact](mailto:enthdev@outlook.com)
 
 ***
 
-This document was written with [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) and [Emoji](http://www.emoji-cheat-sheet.com/) :books:
+This document was written with [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/) :octocat: and [Emoji](http://www.webpagefx.com/tools/emoji-cheat-sheet/) :smile:
